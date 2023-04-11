@@ -1,7 +1,5 @@
 Description for web application testing:
 
-Missing description text: Certain features or elements in the web application are missing accompanying descriptive text, making it difficult for users to understand their purpose.
-
 ![alt text](https://raw.githubusercontent.com/gabrieldalanyi/QA-Manual-Test-gruiadufaut.com-2023/main/1.png)
 
 Missing description text: Certain features or elements in the web application are missing accompanying descriptive text, making it difficult for users to understand their purpose.
