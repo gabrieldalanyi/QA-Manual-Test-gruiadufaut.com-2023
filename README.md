@@ -1,18 +1,18 @@
 Description for web application testing:
 
-Missing description text: Certain features or elements in the application are missing accompanying descriptive text, making it difficult for users to understand their purpose.
+Missing description text: Certain features or elements in the web application are missing accompanying descriptive text, making it difficult for users to understand their purpose.
 
 ![alt text](https://raw.githubusercontent.com/gabrieldalanyi/QA-Manual-Test-gruiadufaut.com-2023/main/1.png)
 
-Missing description text: Certain features or elements in the application are missing accompanying descriptive text, making it difficult for users to understand their purpose.
+Missing description text: Certain features or elements in the web application are missing accompanying descriptive text, making it difficult for users to understand their purpose.
 
 ![alt text](https://raw.githubusercontent.com/gabrieldalanyi/QA-Manual-Test-gruiadufaut.com-2023/main/2.png)
 
-Incorrect language translation: Some text in the application is not accurately translated into the intended language, leading to confusion for users.
+Incorrect language translation: Some text in the web application is not accurately translated into the intended language, leading to confusion for users.
 
 ![alt text](https://raw.githubusercontent.com/gabrieldalanyi/QA-Manual-Test-gruiadufaut.com-2023/main/3.png)
 
-Details button redirecting to a non-existing page: Clicking on the "Details" button in the application results in a redirect to a page that does not exist, preventing users from accessing the desired information.
+Details button redirecting to a non-existing page: Clicking on the "Details" button in the web application results in a redirect to a page that does not exist, preventing users from accessing the desired information.
 
 ![alt text](https://raw.githubusercontent.com/gabrieldalanyi/QA-Manual-Test-gruiadufaut.com-2023/main/4.png)
 
